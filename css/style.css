@@ -2,7 +2,7 @@
 .banner-img{
     width: 120px;
 }
-h1,h3{
+h1,h3,p{
     font-family: 'Kanit', sans-serif;
 }
 .light-green{
@@ -47,4 +47,12 @@ h1,h3{
 }
 .purple{
     color: purple;
+}
+.footer-section{
+    background-color: #292431;
+    color: white;
+}
+ul>li{
+    list-style: none;
+    padding: 2px 0;
 }
